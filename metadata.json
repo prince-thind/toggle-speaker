@@ -1,0 +1,7 @@
+{
+  "uuid": "toggle-speaker@prince",
+  "name": "Toggle Speaker",
+  "description": "Click on the applet to toggle laptop Speaker",
+  "icon": "speaker",
+  "max-instances": "-1"
+}
