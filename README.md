@@ -4,7 +4,8 @@ A simple cinnamon applet to toggle loudspeaker from the panel. Most useful for p
 
 # How to Use
 
-- Drop this folder in ~/.local/share/cinnamon/applets/ 
+- type `alsamixer` in your terminal, move right to \<Auto-Mute\> and click the down arrow to disable it (you only have to do this once)
+- Drop this folder in ~/.local/share/cinnamon/applets/
 - Rename this folder to "toggle-speaker@prince"
 - Add this applet to your panel from your panel's applet setting
 
